@@ -1,6 +1,6 @@
 [
   { 
-    "repository":  "Optimus_Drunk_Potter",
+    "repository":  "android_kernel_motorola_msm8953",
     "target_path": "kernel/motorola/msm8953",
   },
   {
