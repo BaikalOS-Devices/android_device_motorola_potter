@@ -1,22 +1,20 @@
 [
-  { 
-    "repository":  "android_kernel_motorola_msm8953",
+  {
+    "remote": "baikalos-devices",
+    "repository": "android_kernel_motorola_msm8953",
     "target_path": "kernel/motorola/msm8953",
+    "revision": "pi"
   },
   {
+    "remote": "baikalos-devices",
     "repository": "android_vendor_motorola_potter",
     "target_path": "vendor/motorola/potter",
+    "revision": "pi"
   },
   {
+    "remote": "baikalos",
     "repository": "packages_resources_MotoActions",
     "target_path": "packages/resources/MotoActions",
-  }, 
-  {
-    "repository": "system_qcom",
-    "target_path": "system/qcom",
-  },
-  {
-    "repository": "prebuilts_clang_host_linux-x86_7.0-DragonTC",
-    "target_path": "prebuilts/clang/host/linux-x86/7.0-DragonTC",   
+    "revision": "pi"
   }
 ]
